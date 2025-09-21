@@ -39,3 +39,9 @@ Currently building my portfolio with projects in **EDA, customer segmentation, f
 ---
 
 ✨ *“Turning data into decisions — one project at a time.”*  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohaanSattar&show_icons=true&theme=tokyonight)  
+
+
+
