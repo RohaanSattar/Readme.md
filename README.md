@@ -41,7 +41,11 @@ Currently building my portfolio with projects in **EDA, customer segmentation, f
 ✨ *“Turning data into decisions — one project at a time.”*  
 ## 📊 GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohaanSattar&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql" />
+  </a>
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohaanSattar&show_icons=true&theme=tokyonight)  
-
-
 
